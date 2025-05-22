@@ -5,7 +5,7 @@ import { Link, NavLink, useLocation } from 'react-router-dom';
 import { IoMdNotificationsOutline } from "react-icons/io";
 import { AiOutlineHeart } from "react-icons/ai";
 import { FiEdit2 } from "react-icons/fi";
-import Weblogo from "../img/newlogo.jpg"
+import Weblogo from "../img/newlogo3.png"
 import { MoonIcon, SunIcon } from '@chakra-ui/icons';
 import Search from './Search';
 import { TiShoppingCart } from "react-icons/ti"

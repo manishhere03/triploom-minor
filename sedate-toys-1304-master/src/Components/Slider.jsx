@@ -58,7 +58,7 @@ export default function Carousel() {
         transform={'translate(0%, -50%)'}
         zIndex={2}
         onClick={() => slider?.slickPrev()}>
-        <BiLeftArrowAlt size="40px" />
+        <BiLeftArrowAlt size="20px" />
       </IconButton>
       <IconButton
         aria-label="right-arrow"

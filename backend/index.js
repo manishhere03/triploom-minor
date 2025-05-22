@@ -1,9 +1,9 @@
-const express = require("express");
-const cors = require("cors");
-const fs = require("fs");
-const bcrypt = require("bcrypt");
-const app = express();
-const PORT = process.env.PORT || 5000;
+const express = require("express"); //FOR CREATING SERVER
+const cors = require("cors"); //TO ALLOW CROSS ORIGIN REQUESTS
+const fs = require("fs"); //FOR FILE SYSTEM OPERATIONS
+const bcrypt = require("bcrypt"); //FOR HASHING PASSWORDS
+const app = express(); //CREATING EXPRESS APP
+const PORT = process.env.PORT || 5000; //PORT NUMBER
 
 app.use(cors());
 app.use(express.json());

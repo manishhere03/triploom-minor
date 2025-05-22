@@ -40,7 +40,7 @@ export const PaymentDetails = () => {
             <div className='main-div'>
                 <div className='sub-div-1'>
                     <div className='sub-div-1-A'>
-                        <img className='logo' src='https://static.tacdn.com/img2/brand_refresh/newlogo.jpg' alt='' />
+                        <img className='logo' src='https://static.tacdn.com/img2/brand_refresh/newlogo3.png' alt='' />
                     </div>
                     {/* <div className='sub-div-1-B'>
             <div >
